@@ -1,8 +1,10 @@
 Course - Advanced Physical Design Using OpenLANE offered by VSDIAT
 BY-VIGNESH
+
 Contents:-
 
- Day 1: How to Talk to Computers
+Day 1: How to Talk to Computers
+
 Introduction to QFN - 48 package, chip, pads, core, die and IPs
 Introduction to RISC V
 From Software Applications to Hardware
@@ -16,7 +18,10 @@ OpenLANE Directory Structure in Detail
 Design Preparation Step
 Review Files After Design Prep and Run Synthesis
 Steps to Characterise Synthesis Results
+
+
 Day 2: Good vs Bad Floorplan and Introduction to Library Cells
+
 Chip Floor Planning Considerations
 Utilisation Factor and Aspect Ratio
 Concept of Pre-Placed Cells
@@ -40,7 +45,9 @@ Typical Characterisation Flow
 General Timing Characterisation Parameters
 Timing Threshhold Definitions
 Propogation Delay and Transition Time
+
 DAY 3: Design Library Cell Using Magic Layout and NGSPICE characterisation
+
 Labs for CMOS Inverter NGSPICE Simulations
 IO Placer Revision
 SPICE Deck Creation For CMOS Inverter
@@ -66,7 +73,9 @@ Lab Introduction to Magic Tool Options and DRC Rules
 Lab Introduction to Magic and Steps to Load SKY130 Tech Rules
 Lab Excercise to Fix poly.9 error in SKY130 Tech-File
 Lab Excercise to Implement Poly-Resistor Spacing to Diff and Tap
- DAY 4 : Pre-Layout Timing Analysis and Importance of Good Clock Tree
+
+DAY 4 : Pre-Layout Timing Analysis and Importance of Good Clock Tree
+
 Timing Modelling Using Delay Tables
 Lab Steps To Convert Grid Information Into Track Information
 Lab Steps to Convert Magic Layout to STD Cell LEF
@@ -89,7 +98,9 @@ Setup Timing Analysis Using Real Clocks
 Lab Steps to Analyse Timing With Real Clocks Using OpenSTA
 Lab Steps to Excecute OpenSTA With Right Timing Libraries and CTS Assignment
 Lab Steps to Observe Impact of Bigger CTS Buffers On Setup And Hold Timing
+
 DAY 5: Final Steps For RTL2GDS Using TritonRoute and OpenSTA
+
 Routing and Design Check
 Introduction to Maze Routing and Lee's Algorithm
 Lee's Algorithm Conclusion
