@@ -1,6 +1,6 @@
 Course - Advanced Physical Design Using OpenLANE offered by VSDIAT
-Author - VIGNESH
-Contents -:
+BY-VIGNESH
+Contents:-
 
  Day 1: How to Talk to Computers
 Introduction to QFN - 48 package, chip, pads, core, die and IPs
