@@ -84,6 +84,10 @@ Timing Threshhold Definitions
 
 Propogation Delay and Transition Time
 
+Screenshots of Day 2 theory and labs - 
+
+https://github.com/Vigneshr2106/ADVANCED-PHYSICAL-DESIGN-USING-OPENLANE-BY-VIGNESH/issues/2#issue-2216589990
+
 DAY 3: Design Library Cell Using Magic Layout and NGSPICE characterisation
 
 Labs for CMOS Inverter NGSPICE Simulations
@@ -136,6 +140,11 @@ Lab Excercise to Fix poly.9 error in SKY130 Tech-File
 
 Lab Excercise to Implement Poly-Resistor Spacing to Diff and Tap
 
+Screenshots of Day 3 theory and lab in the link-
+
+https://github.com/Vigneshr2106/ADVANCED-PHYSICAL-DESIGN-USING-OPENLANE-BY-VIGNESH/issues/3#issue-2216598162
+
+
 
 DAY 4 : Pre-Layout Timing Analysis and Importance of Good Clock Tree
 
@@ -183,6 +192,10 @@ Lab Steps to Excecute OpenSTA With Right Timing Libraries and CTS Assignment
 
 Lab Steps to Observe Impact of Bigger CTS Buffers On Setup And Hold Timing
 
+Screenshots for the Day-4 in the below link
+
+https://github.com/Vigneshr2106/ADVANCED-PHYSICAL-DESIGN-USING-OPENLANE-BY-VIGNESH/issues/4#issue-2216604235
+
 DAY 5: Final Steps For RTL2GDS Using TritonRoute and OpenSTA
 
 Routing and Design Check
@@ -210,3 +223,7 @@ TritonRoute Feature 2 & 3 - Inter-Guide Connectivity and Intra & Inter Layer Rou
 TritonRoute Method To Handle Connectivity
 
 Routing Topology Algorithm and Final Files List Post Route
+
+Screenshots of Day-5 in the below link 
+
+https://github.com/Vigneshr2106/ADVANCED-PHYSICAL-DESIGN-USING-OPENLANE-BY-VIGNESH/issues/5#issue-2216608525
