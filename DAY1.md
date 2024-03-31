@@ -1,5 +1,9 @@
 Contents of DAY 1 DONE
 
+https://github.com/Vigneshr2106/ADVANCED-PHYSICAL-DESIGN-USING-OPENLANE-BY-VIGNESH/issues/1#issue-2216571305
+
+SCREENSHOTS OF THEORY AND LAB DONE ARE ABOVE IN THE LINK
+
 Introduction to QFN - 48 package, chip, pads, core, die and IPs
 
 Introduction to RISC V
