@@ -33,7 +33,6 @@ Steps to Characterise Synthesis Results
 
 Screenshots for labs and theory done-
 
-https://github.com/Vigneshr2106/ADVANCED-PHYSICAL-DESIGN-USING-OPENLANE-BY-VIGNESH/issues/1#issue-2216571305
 
 
 Day 2: Good vs Bad Floorplan and Introduction to Library Cells
@@ -86,7 +85,7 @@ Propogation Delay and Transition Time
 
 Screenshots of Day 2 theory and labs - 
 
-https://github.com/Vigneshr2106/ADVANCED-PHYSICAL-DESIGN-USING-OPENLANE-BY-VIGNESH/issues/2#issue-2216589990
+
 
 DAY 3: Design Library Cell Using Magic Layout and NGSPICE characterisation
 
@@ -142,9 +141,6 @@ Lab Excercise to Implement Poly-Resistor Spacing to Diff and Tap
 
 Screenshots of Day 3 theory and lab in the link-
 
-https://github.com/Vigneshr2106/ADVANCED-PHYSICAL-DESIGN-USING-OPENLANE-BY-VIGNESH/issues/3#issue-2216598162
-
-
 
 DAY 4 : Pre-Layout Timing Analysis and Importance of Good Clock Tree
 
@@ -194,7 +190,9 @@ Lab Steps to Observe Impact of Bigger CTS Buffers On Setup And Hold Timing
 
 Screenshots for the Day-4 in the below link
 
-https://github.com/Vigneshr2106/ADVANCED-PHYSICAL-DESIGN-USING-OPENLANE-BY-VIGNESH/issues/4#issue-2216604235
+
+
+
 
 DAY 5: Final Steps For RTL2GDS Using TritonRoute and OpenSTA
 
@@ -226,4 +224,51 @@ Routing Topology Algorithm and Final Files List Post Route
 
 Screenshots of Day-5 in the below link 
 
-https://github.com/Vigneshr2106/ADVANCED-PHYSICAL-DESIGN-USING-OPENLANE-BY-VIGNESH/issues/5#issue-2216608525
+![image](https://github.com/Vigneshr2106/ADVANCED-PHYSICAL-DESIGN-USING-OPENLANE-BY-VIGNESH/assets/165021886/08940f5d-558c-4b6b-ac03-5b8b66f69f0e)
+
+![image](https://github.com/Vigneshr2106/ADVANCED-PHYSICAL-DESIGN-USING-OPENLANE-BY-VIGNESH/assets/165021886/c1b3469c-5eda-456e-8022-86ff54513ef0)
+
+![image](https://github.com/Vigneshr2106/ADVANCED-PHYSICAL-DESIGN-USING-OPENLANE-BY-VIGNESH/assets/165021886/3f007070-08de-4139-9a07-95c710e50a32)
+
+![image](https://github.com/Vigneshr2106/ADVANCED-PHYSICAL-DESIGN-USING-OPENLANE-BY-VIGNESH/assets/165021886/9bf1df37-2f1b-48c8-a304-5a0570016327)
+
+![image](https://github.com/Vigneshr2106/ADVANCED-PHYSICAL-DESIGN-USING-OPENLANE-BY-VIGNESH/assets/165021886/e109aff7-f96c-454f-8fa8-f35f9507dae8)
+
+
+![image](https://github.com/Vigneshr2106/ADVANCED-PHYSICAL-DESIGN-USING-OPENLANE-BY-VIGNESH/assets/165021886/411256c5-57ae-4e88-8b7c-96edbd5346ef)
+
+
+![image](https://github.com/Vigneshr2106/ADVANCED-PHYSICAL-DESIGN-USING-OPENLANE-BY-VIGNESH/assets/165021886/50b36400-229d-4130-b4fc-d277ce2276c9)
+
+![image](https://github.com/Vigneshr2106/ADVANCED-PHYSICAL-DESIGN-USING-OPENLANE-BY-VIGNESH/assets/165021886/f7780019-e7e0-4130-8df1-565921dcbee1)
+
+
+![image](https://github.com/Vigneshr2106/ADVANCED-PHYSICAL-DESIGN-USING-OPENLANE-BY-VIGNESH/assets/165021886/62d97de7-7942-49f9-886b-c19c2762102b)
+
+![image](https://github.com/Vigneshr2106/ADVANCED-PHYSICAL-DESIGN-USING-OPENLANE-BY-VIGNESH/assets/165021886/ad3495fc-c541-49e1-a318-225c08bb379b)
+
+![image](https://github.com/Vigneshr2106/ADVANCED-PHYSICAL-DESIGN-USING-OPENLANE-BY-VIGNESH/assets/165021886/c31d69fe-b904-4624-aeab-1c4af01aed3d)
+
+![image](https://github.com/Vigneshr2106/ADVANCED-PHYSICAL-DESIGN-USING-OPENLANE-BY-VIGNESH/assets/165021886/86d14faf-6ea2-45ca-bccb-155d322327cd)
+
+
+
+![image](https://github.com/Vigneshr2106/ADVANCED-PHYSICAL-DESIGN-USING-OPENLANE-BY-VIGNESH/assets/165021886/ec00f84a-1723-4a40-8dab-09549370d734)
+
+![image](https://github.com/Vigneshr2106/ADVANCED-PHYSICAL-DESIGN-USING-OPENLANE-BY-VIGNESH/assets/165021886/d78e7440-8c90-4fc3-b7df-bbf2b44b2831)
+
+![image](https://github.com/Vigneshr2106/ADVANCED-PHYSICAL-DESIGN-USING-OPENLANE-BY-VIGNESH/assets/165021886/0bdb746c-c42b-4329-9148-cf937d55d610)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
