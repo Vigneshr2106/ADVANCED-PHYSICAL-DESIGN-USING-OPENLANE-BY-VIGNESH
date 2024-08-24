@@ -5,8 +5,6 @@ Contents:-
 
 Day 1: How to Talk to Computers
 
-![image](https://github.com/user-attachments/assets/ad3a2805-ffab-4344-a77c-85a59f0debd9)
-
 Introduction to QFN - 48 package, chip, pads, core, die and IPs
 
 Introduction to RISC V
